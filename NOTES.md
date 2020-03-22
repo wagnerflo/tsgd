@@ -1,0 +1,2 @@
+- https://reactos.org/wiki/ReactOS_Terminal_Services
+- http://msdn.microsoft.com/en-us/library/cc248485(v=PROT.10).aspx
